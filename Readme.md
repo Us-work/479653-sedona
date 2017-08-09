@@ -1,7 +1,7 @@
 ﻿# Личный проект «Седона»
 
 * Студент: [Ярослав Ус](https://up.htmlacademy.ru/htmlcss/18/user/479653).
-* Наставник: [Закурдаев Евгений] (https://htmlacademy.ru/profile/id25657).
+* Наставник: [Закурдаев Евгений](https://htmlacademy.ru/profile/id25657).
 
 ---
 
